@@ -3,7 +3,7 @@
 
 ### On va créer une application web qui sert à gérer la vie quotidienne de la population vivant dans les villages donc on aura deux Dashboards 
 	
-## I- Dashboard citoyen :
+<h1><b> I- Dashboard citoyen :</b></h1>
 <ul>
 	<li>Créer un compte a eu même.</li>
 	<li>Demander des ustensiles des fêtes (articles de fête / مستلزمات الحفل ).</li>
@@ -12,7 +12,7 @@
 	<li>Modifier mon profile</li>
 	<li>Supprimer mon compte</li>
 </ul>
-## II- Dashboard Admin:
+<h1><b> II- Dashboard Admin: </b></h1>
  <ul>
 	<li>Créer un compte de citoyen.</li>
 <br>
