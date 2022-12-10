@@ -1,17 +1,17 @@
 # gestion-_des_tribus
 
 
-###On va créer une application web qui sert à gérer la vie quotidienne de la population vivant dans les villages donc on aura deux Dashboards 
+### On va créer une application web qui sert à gérer la vie quotidienne de la population vivant dans les villages donc on aura deux Dashboards 
 	
-##Dashboard citoyen :
+## Dashboard citoyen :
 <ul>
-	<li>Créer un compte a eu même.</li></ul>
-	Demander des ustensiles des fêtes (articles de fête / مستلزمات الحفل ).
-	Visualiser la disponibilité des ustensiles des fêtes.
-	Visualiser les statistiques de la tribu.
-	Modifier mon profile
-	Supprimer mon compte
-
+	<li>Créer un compte a eu même.</li>
+	<li>Demander des ustensiles des fêtes (articles de fête / مستلزمات الحفل ).</li>
+	<li>Visualiser la disponibilité des ustensiles des fêtes.</li>
+	<li>Visualiser les statistiques de la tribu.</li>
+	<li>Modifier mon profile</li>
+	<li>Supprimer mon compte</li>
+</ul>
 ##Dashboard Admin:
 	Créer un compte de citoyen.
 
