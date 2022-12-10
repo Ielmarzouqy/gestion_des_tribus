@@ -12,22 +12,24 @@
 	<li>Modifier mon profile</li>
 	<li>Supprimer mon compte</li>
 </ul>
-##Dashboard Admin:
-	Créer un compte de citoyen.
-
-	Ajouter titulaires de droits (دوي الحقوق).
-	Visualiser les titulaires de droits.
-	Modifier un titulaire de droits.
-	Archiver  les
-
-	Gérer la bibliothèque de tribu
-	Ajouter, modifier et supprimer un livre.
-	Ajouter, modifier et supprimer un Rapport PFE.
-	Visualiser les livre et Rapport PFE non pas été retournés.
-
-	Gestion des engagements (الانخراط).
-	
-	Gérer les ustensiles des fêtes (articles de fête / مستلزمات الحفل).
-	Visualiser les statistiques de la tribu.
-	Modifier son profile.
-	Modifier profile des citoyens.
+## Dashboard Admin:
+<ul>
+	<li>Créer un compte de citoyen.</li>
+<br>
+	<li>Ajouter titulaires de droits (دوي الحقوق).</li>
+	<li>Visualiser les titulaires de droits.</li>
+	<li>Modifier un titulaire de droits.</li>
+	<li>Archiver  les</li>
+<br>
+	<li>Gérer la bibliothèque de tribu</li>
+	<li>Ajouter, modifier et supprimer un livre.</li>
+	<li>Ajouter, modifier et supprimer un Rapport PFE.</li>
+	<li>Visualiser les livre et Rapport PFE non pas été retournés.</li>
+<br>
+	<li>Gestion des engagements (الانخراط).</li>
+<br>
+	<li>Gérer les ustensiles des fêtes (articles de fête / مستلزمات الحفل).</li>
+	<li>Visualiser les statistiques de la tribu.</li>
+	<li>Modifier son profile.</li>
+	<li>Modifier profile des citoyens.</li>
+</ul>
