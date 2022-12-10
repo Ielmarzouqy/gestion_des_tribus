@@ -1,4 +1,4 @@
-# gestion-_des_tribus
+# gestion des tribus
 
 
 ### On va créer une application web qui sert à gérer la vie quotidienne de la population vivant dans les villages donc on aura deux Dashboards 
